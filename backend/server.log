@@ -1,0 +1,20 @@
+2024-11-28 19:40:28,483 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-28 19:40:28,594 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
+2024-11-28 19:41:21,322 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-28 19:41:21,435 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
+2024-11-29 12:44:31,630 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2024-11-29 12:44:32,481 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
+2024-11-30 10:46:46,460 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-30 10:46:52,483 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-30 10:47:20,756 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-30 10:47:22,811 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-30 10:47:22,814 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount: 40.0, category: Shopping, notes: pant
+2024-11-30 10:47:22,983 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount: 100.0, category: Shopping, notes: shirt
+2024-11-30 10:47:23,044 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount: 1000.0, category: Food, notes: hotel
+2024-11-30 10:48:28,133 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-30 10:48:32,043 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-30 11:19:09,157 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
+2024-11-30 11:19:47,435 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
+2024-11-30 13:11:13,282 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-30 13:11:19,588 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-30 13:11:21,652 - db_helper - INFO - fetch_expenses_summary called with start: 2024-08-01 end: 2024-08-05
